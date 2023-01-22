@@ -3,7 +3,3 @@ this is my task two
 <<<<<<< HEAD
 git is lightweight
 git is widely used tool
-git is not good one
-git is not second good two
-=======
->>>>>>> parent of 5cda0fe (learning push)
